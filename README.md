@@ -1,0 +1,2 @@
+# pythonic
+Quarky pythonic code
